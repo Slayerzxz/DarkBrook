@@ -6959,7 +6959,7 @@ print("https://discord.gg/GNjq644ARw")
 
 
 task.wait(5)
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/GLoNk3bAn9FJzqVA/raw"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/AS0wksuzuGjSjuaz/raw"))()
 
 
 --[[
